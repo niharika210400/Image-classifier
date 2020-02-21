@@ -1,4 +1,4 @@
-#Intelligent Album creator
+Intelligent Album creator
 --------------------------
 *This is an image classifier made using Convolutional Neural Network with Keras.*
 Dataset used for the project can be found here:
